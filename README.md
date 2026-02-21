@@ -1,16 +1,116 @@
-## Hi there 👋
+# Hi there, Welcome to SharadHub 👋
 
-<!--
-**SharadHub/SharadHub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a passionate **Full Stack Developer** dedicated to building modern web applications and contributing to the open-source community. Currently exploring distributed systems and system design while mastering the MERN stack.
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a junior full stack developer with a strong foundation in the MERN ecosystem. I'm enthusiastic about clean code, scalable architecture, and collaborative development. My journey in tech is driven by curiosity and a commitment to continuous learning.
+
+- 🔨 Building full-stack applications with **React**, **Express**, and **Node.js**
+- 🌍 Passionate about **open-source** development and community contributions
+- 🧠 Exploring **distributed systems** and **system design** principles
+- 📚 Continuously leveling up my skills in modern web development
+- 🤝 Open to collaboration, mentorship, and contributing to meaningful projects
+
+## 💻 Tech Stack & Skills
+
+**Languages:**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+**Frontend:**
+
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+**Backend:**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+
+**Databases:**
+
+![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+**Tools & Platforms:**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+## 🌟 Featured Projects
+
+Ready to showcase your best work! Here are some placeholder sections:
+
+- **[Project Name](link)** - MERN application description
+- **[Project Name](link)** - Full stack project with key features
+- **[Project Name](link)** - Open-source contribution or side project
+
+*Add your actual project links and descriptions above*
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+![SharadHub's GitHub stats](https://github-readme-stats.vercel.app/api?username=SharadHub&show_icons=true&theme=radical&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SharadHub&layout=compact&theme=radical&hide_border=true)
+
+</div>
+
+## 📅 GitHub Contribution Calendar
+
+<div align="center">
+
+![GitHub Contribution Calendar](https://github-readme-activity-graph.vercel.app/graph?username=SharadHub&theme=radical&hide_border=true)
+
+</div>
+
+## 📝 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+- [Coming Soon] Building Scalable MERN Applications
+- [Coming Soon] Understanding Distributed Systems
+- [Coming Soon] System Design Fundamentals
+<!-- BLOG-POST-LIST:END -->
+
+*Check back soon for technical articles and deep dives into full-stack development!*
+
+## 🎯 Current Focus
+
+- 🔍 Deepening knowledge of **system design** and **distributed systems**
+- 🏗️ Building scalable **full-stack applications**
+- 🤲 Contributing to **open-source projects**
+- 📖 Learning best practices in software architecture
+
+## 🌐 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sharad-bista-849172325/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://sharadbista.com.np)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SharadHub)
+
+## 📈 Recent Activity
+
+Explore my repositories to see what I'm currently working on. I'm particularly interested in projects involving:
+- Full-stack web applications
+- Open-source contributions
+- System design and architecture discussions
+
+---
+
+### 💡 Fun Fact
+I believe in the power of **open-source** to drive innovation and learning. Let's build something amazing together!
+
+⭐ **Feel free to explore my repositories, star projects you find interesting, and don't hesitate to reach out for collaboration or feedback!**
+
+---
+
+<div align="center">
+
+**Made with ❤️ by SharadHub**
+
+</div>
