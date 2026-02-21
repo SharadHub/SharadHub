@@ -42,15 +42,6 @@ I'm a junior full stack developer with a strong foundation in the MERN ecosystem
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-
-## 📊 GitHub Statistics
-
-<div align="center">
-
-![SharadHub's GitHub stats](https://github-readme-stats.vercel.app/api?username=SharadHub&show_icons=true&theme=radical&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SharadHub&layout=compact&theme=radical&hide_border=true)
-
 </div>
 
 ## 📅 GitHub Contribution Calendar
