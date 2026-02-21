@@ -1,16 +1,16 @@
-# Hi there, Welcome to SharadHub 👋
+# Hi there 👋, I am Sharad 
 
 Welcome to my GitHub profile! I'm a passionate **Full Stack Developer** dedicated to building modern web applications and contributing to the open-source community. Currently exploring distributed systems and system design while mastering the MERN stack.
 
-## 🚀 About Me
+## About Me
 
 I'm a junior full stack developer with a strong foundation in the MERN ecosystem. I'm enthusiastic about clean code, scalable architecture, and collaborative development. My journey in tech is driven by curiosity and a commitment to continuous learning.
 
-- 🔨 Building full-stack applications with **React**, **Express**, and **Node.js**
-- 🌍 Passionate about **open-source** development and community contributions
-- 🧠 Exploring **distributed systems** and **system design** principles
-- 📚 Continuously leveling up my skills in modern web development
-- 🤝 Open to collaboration, mentorship, and contributing to meaningful projects
+- Building full-stack applications with **React**, **Express**, and **Node.js**
+- Passionate about **open-source** development and community contributions
+- Exploring **distributed systems** and **system design** principles
+- Continuously leveling up my skills in modern web development
+- Open to collaboration, mentorship, and contributing to meaningful projects
 
 ## 💻 Tech Stack & Skills
 
@@ -42,15 +42,6 @@ I'm a junior full stack developer with a strong foundation in the MERN ecosystem
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-## 🌟 Featured Projects
-
-Ready to showcase your best work! Here are some placeholder sections:
-
-- **[Project Name](link)** - MERN application description
-- **[Project Name](link)** - Full stack project with key features
-- **[Project Name](link)** - Open-source contribution or side project
-
-*Add your actual project links and descriptions above*
 
 ## 📊 GitHub Statistics
 
@@ -70,16 +61,6 @@ Ready to showcase your best work! Here are some placeholder sections:
 
 </div>
 
-## 📝 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [Coming Soon] Building Scalable MERN Applications
-- [Coming Soon] Understanding Distributed Systems
-- [Coming Soon] System Design Fundamentals
-<!-- BLOG-POST-LIST:END -->
-
-*Check back soon for technical articles and deep dives into full-stack development!*
-
 ## 🎯 Current Focus
 
 - 🔍 Deepening knowledge of **system design** and **distributed systems**
@@ -93,24 +74,13 @@ Ready to showcase your best work! Here are some placeholder sections:
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://sharadbista.com.np)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SharadHub)
 
-## 📈 Recent Activity
 
-Explore my repositories to see what I'm currently working on. I'm particularly interested in projects involving:
-- Full-stack web applications
-- Open-source contributions
-- System design and architecture discussions
-
----
-
-### 💡 Fun Fact
-I believe in the power of **open-source** to drive innovation and learning. Let's build something amazing together!
-
-⭐ **Feel free to explore my repositories, star projects you find interesting, and don't hesitate to reach out for collaboration or feedback!**
+⭐ **Feel free to explore my repositories and don't hesitate to reach out for collaboration or feedback!**
 
 ---
 
 <div align="center">
 
-**Made with ❤️ by SharadHub**
+**- SharadHub**
 
 </div>
