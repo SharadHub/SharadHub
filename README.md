@@ -11,11 +11,9 @@
     width="200"/> 
 </p>
 
-<p align="center">
-    <img align="center" 
-    src="https://github-readme-stats.vercel.app/api?username=SharadHub&show_icons=true&locale=en" 
-    alt="SharadHub" />
-</p>
+<img 
+src="https://github-readme-stats.vercel.app/api?username=SharadHub&show_icons=true&locale=en&cache_seconds=1800" 
+alt="SharadHub" />
 
 <!-- About Me -->
 - 🚀 Building **full-stack applications with AI integration**
