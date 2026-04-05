@@ -109,17 +109,6 @@ Enterprise-grade task management system supporting multiple organizations with P
     width="400"/>
 </p>
 
-<!-- GitHub Streak Stats -->
-<h3 align="center">GitHub Contribution Streak</h3>
-<p align="center">
-    <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=SharadHub&cache_seconds=1800" 
-    alt="SharadHub Streak" 
-    width="400"/>
-</p>
-
----
-
 ## 🤝 Let's Connect!
 
 I'm always interested in collaborating on exciting projects, learning from the community, and exploring new opportunities. Feel free to reach out!
