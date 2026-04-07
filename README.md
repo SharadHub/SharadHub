@@ -2,15 +2,6 @@
 <h1 align="center">Hi 👋, I'm Sharad Bista</h1>
 <h3 align="center">Full Stack Developer | Learning & Building | MERN Stack & Data Science Enthusiast</h3>
 
-<!-- Profile Views Counter -->
-<p align="center"> 
-    <img 
-    src="https://komarev.com/ghpvc/?username=SharadHub&label=Profile%20views&color=0e75b6&style=flat" 
-    alt="SharadHub"
-    height="35"
-    width="200"/> 
-</p>
-
 <!-- GitHub Stats -->
 <p align="center">
     <img 
