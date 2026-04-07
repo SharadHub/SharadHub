@@ -1,15 +1,6 @@
 <!-- Profile Header -->
 <h1 align="center">Hi 👋, I'm Sharad Bista</h1>
 <h3 align="center">Full Stack Developer | Learning & Building | MERN Stack & Data Science Enthusiast</h3>
-
-<!-- GitHub Stats -->
-<p align="center">
-    <img 
-    src="https://github-readme-stats.vercel.app/api?username=SharadHub&show_icons=true&locale=en&cache_seconds=1800" 
-    alt="SharadHub GitHub Stats" 
-    width="400"/>
-</p>
-
 ---
 
 ## 🚀 About Me
