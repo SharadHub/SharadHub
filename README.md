@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <h1 align="center">Hi, I'm Sharad Bista</h1>
-<h3 align="center">Full Stack Developer | MERN Stack & Data Science Enthusiast</h3>
+<h3 align="center">Full Stack Developer | MERN Stack + Data Science Enthusiast</h3>
 
 ## About Me
 
