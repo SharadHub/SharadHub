@@ -49,33 +49,53 @@ Enterprise-grade task management system supporting multiple organizations using 
 ---
 
 <h3 align="center">Languages & Tools</h3>
-<div align="center" style="background-color: white; padding: 10px; border-radius: 10px;">
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/></a>
+
+<div align="center" style="display:flex; flex-wrap:wrap; gap:12px; justify-content:center;">
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"
+style="background-color:white; padding:6px; border-radius:8px;" />
+</a>
 
 <a href="https://reactjs.org/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/></a>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"
+style="background-color:white; padding:6px; border-radius:8px;" />
+</a>
 
 <a href="https://nextjs.org/" target="_blank">
-<img src="https://cdn.simpleicons.org/nextdotjs/000000" width="40" height="40"/></a>
+<img src="https://cdn.simpleicons.org/nextdotjs/000000" width="40" height="40"
+style="background-color:white; padding:6px; border-radius:8px;" />
+</a>
 
 <a href="https://nodejs.org" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/></a>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"
+style="background-color:white; padding:6px; border-radius:8px;" />
+</a>
 
 <a href="https://expressjs.com" target="_blank">
-<img src="https://cdn.simpleicons.org/express/000000" width="40" height="40"/></a>
+<img src="https://cdn.simpleicons.org/express/000000" width="40" height="40"
+style="background-color:white; padding:6px; border-radius:8px;" />
+</a>
 
 <a href="https://www.python.org" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/></a>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"
+style="background-color:white; padding:6px; border-radius:8px;" />
+</a>
 
 <a href="https://www.mongodb.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/></a>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"
+style="background-color:white; padding:6px; border-radius:8px;" />
+</a>
 
 <a href="https://www.postgresql.org" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"/></a>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"
+style="background-color:white; padding:6px; border-radius:8px;" />
+</a>
 
 <a href="https://git-scm.com/" target="_blank">
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/></a>
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"
+style="background-color:white; padding:6px; border-radius:8px;" />
+</a>
 
 </div>
 
