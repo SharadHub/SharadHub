@@ -49,7 +49,7 @@ Enterprise-grade task management system supporting multiple organizations using 
 ---
 
 <h3 align="center">Languages & Tools</h3>
-<p align="center">
+<p align="center" style="background-color: white; padding: 10px; border-radius: 10px;">
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/></a>
