@@ -49,9 +49,8 @@ Enterprise-grade task management system supporting multiple organizations using 
 ---
 
 <h3 align="center">Languages & Tools</h3>
-<p align="center" style="background-color: white; padding: 10px; border-radius: 10px;">
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+<div align="center" style="background-color: white; padding: 10px; border-radius: 10px;">
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/></a>
 
 <a href="https://reactjs.org/" target="_blank">
@@ -78,7 +77,7 @@ Enterprise-grade task management system supporting multiple organizations using 
 <a href="https://git-scm.com/" target="_blank">
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/></a>
 
-</p>
+</div>
 
 ---
 
