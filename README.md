@@ -101,15 +101,6 @@ style="background-color:white; padding:6px; border-radius:8px;" />
 
 ---
 
-<h3 align="center">Most Used Languages</h3>
-<p align="center">
-    <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=SharadHub&show_icons=true&locale=en&layout=compact&cache_seconds=1800" 
-    width="400"/>
-</p>
-
----
-
 ## Connect
 
 <p align="center">
