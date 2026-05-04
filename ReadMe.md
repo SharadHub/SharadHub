@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 Hi, My name is Sharad Bista<br>I am a Full Stack Developer focused on building scalable web applications<br>Currently exploring DevOps, CI/CD, and cloud infrastructure
 
 
