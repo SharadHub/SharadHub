@@ -15,6 +15,5 @@ Hi, I am Sharad Bista<br>I am a Full Stack Developer focused on building scalabl
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=SharadHub&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=SharadHub&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=SharadHub&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
